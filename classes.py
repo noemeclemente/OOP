@@ -1,5 +1,6 @@
 # características: modelo, ano e valor = atributos
 # comportamentos: buzinar, parar e correr(vendas de bicicletas) = métodos
+# fazendo teste git
 nro_marcha = 1
 class Bicicleta:
     def __init__(self, cor, modelo, ano, valor, aro=18, marcha=1): # método construtor, inicalizador
